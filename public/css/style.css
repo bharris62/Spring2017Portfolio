@@ -339,7 +339,7 @@ margin-left: -17px; line-height: 50px; }
 .isotope-filters  button.active, .isotope-filters  button:hover { background: transparent; color: #07cb79; }
 .grid-item { background: #fff; color: #fff; width: auto; border: 0; }
 .grid-item img {-webkit-transition: transform 0.35s; -ms-transition: transform 0.35s; -moz-transition: transform 0.35s; -o-transition: transform 0.35s; transition: transform 0.35s; width: 100%; }
-.full-screen .grid-item { padding: 10px 10px; width: 25%; }
+.full-screen .grid-item { padding: 10px 10px; width: 50%; }
 /*hover portfolio*/
 .portfolio-item .item-info a { margin: 0; padding: 0; color: #fff; font-weight: 100; text-transform: capitalize; line-height: 30px; margin-bottom: 15px; display: block; font-size: 24px;
 }
