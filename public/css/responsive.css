@@ -89,7 +89,7 @@ NOTE: This is responsive stylesheet of template, This file contains the styling 
 }
 
 @media (max-width: 1198px) {
-.service-block { margin-bottom: 50px; }
+.service-block { margin-bottom: 20px; }
 
 }
 
