@@ -136,7 +136,7 @@ button.button-small:hover { background: #07cb79; }
      intro-bg
 *************************/
 .white-bg { background: #ffffff; }
-.page-section { padding: 60px 0px; }
+.page-section { padding: 10px 0px; }
 .page-section-pt { padding: 60px 0px 0; }
 .page-section-pb { padding: 0px 0px 60px; }
 .container-fluid { padding: 0px 150px; }
